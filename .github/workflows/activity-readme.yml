@@ -11,16 +11,16 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      
+
       - name: Update Activity Readme
-        uses: 18m/generate-readme@v1
+        uses: b-slim/github-activity-readme@v1
         with:
           username: anHiep
           token: ${{ secrets.GITHUB_TOKEN }}
           format: |
-            {message} in {repository} # Format for commit messages
+            {message} in {repository}
           output_file: activity.md
-      
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "HIE2Pbrizzily@gmail.com"

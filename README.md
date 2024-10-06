@@ -1,24 +1,20 @@
 ## Hi there 👋
 
-<!--
-**anHiep/anHiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true" alt="Codeforces Stats" />
+</div>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&custom_title=anHiep's GitHub stats" alt="GitHub Stats"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anHiep&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy&count=5&width={250}" alt="Spotify Recently Played" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react&force_username=true" alt="Codeforces Stats" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anHiep&theme=tokyo-night" alt="Activity Graph"/><br/>
+</div>
 
+### Recent Commits
 
-
+<!-- Include activity.md directly here -->
 
