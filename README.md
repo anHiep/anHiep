@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=dark&handle=true)
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&title=Username)
 
 </div>
 
