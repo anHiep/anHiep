@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there 👋 I'm Nguyen Tran An Hiep
+A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. Always eager to learn, innovate, and contribute to cutting-edge projects.
 
 ## Background
 - A competitive programming enthusiast
