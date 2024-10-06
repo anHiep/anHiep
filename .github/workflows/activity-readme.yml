@@ -1,0 +1,30 @@
+name: Update Activity Readme
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Update Activity Readme
+        uses: 18m/generate-readme@v1
+        with:
+          username: anHiep
+          token: ${{ secrets.GITHUB_TOKEN }}
+          format: |
+            {message} in {repository} # Format for commit messages
+          output_file: activity.md
+      
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "HIE2Pbrizzily@gmail.com"
+          git config --local user.name "anHiep"
+          git add activity.md
+          git commit -m "Update activity readme" || echo "No changes to commit"
+          git push
