@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy&count=4" alt="Spotify Recently Played" />
-    </td>
-    <td>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react" alt="Codeforces Stats" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy&count=4" alt="Spotify Recently Played" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react&force_username" alt="Codeforces Stats" />
+</div>
+
 
 
 
