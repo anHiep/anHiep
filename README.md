@@ -19,8 +19,22 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Statistics
+## Gaming
+- Valorant addictor (also Kirka or Tetrio for a change)
+- Don't Starve Together (I welcome you to join my server)
+- Brawlhalla (only when I'm bored)
+- Have played: PES, FO4, minecraft and some casual games
+  
+![Valorant](https://img.icons8.com/color/48/valorant.png)
+<img src="https://cdn2.steamgriddb.com/icon/e06286a2d9b9682a5cf3eb4d49943036.ico" width="48" height="48">
+<img src="https://static.wikia.nocookie.net/brawlhalla_gamepedia/images/1/14/Brawlhalla_Logo_100M_Full.png/revision/latest/scale-to-width-down/350?cb=20230520001004" width="48" height="48">
+<img src="https://minecraft.wiki/images/thumb/Minecraft_Twitter_logo.jpg/120px-Minecraft_Twitter_logo.jpg?51898" width="48" height="48">
+
+## Some statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&custom_title=anHiep's&nbsp;GitHub&nbsp;stats)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anHiep&theme=tokyo-night&custom_title=anHiep's&nbsp;Contribution)
+- Also some graphs for better visualization
+- Promisely, this graph will look even better in the future!
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anHiep&radius=16&theme=tokyo-night&custom_title=anHiep's&nbsp;Contribution)
