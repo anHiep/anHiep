@@ -1,11 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
-## Background
+## My background
 - A competitive programming enthusiast<br>
 - You can check my Codeforce account here<br>
 - Of course, I'm doing problems at other websites.<br>
 
-<div align='center'>
+<div align='left'>
     <img 
         src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true" 
         alt="Codeforces Stats" 
