@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep)
+
+</div>
