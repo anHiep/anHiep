@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy&count=4" alt="Spotify Recently Played" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react&force_username=true" alt="Codeforces Stats" />
-</div>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy&count=4" alt="Spotify Recently Played" />
 
-<div>
-  ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Maeda.anHiep)
-</div>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react&force_username=true" alt="Codeforces Stats" />
 
 
 
