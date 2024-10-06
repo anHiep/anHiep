@@ -1,19 +1,17 @@
 ## Hi there 👋
 
-<table style="width: 100%; margin-bottom: 16px; border-collapse: collapse; border: none;">
-    <tr>
-        <td style="width: 50%; vertical-align: top; border: none;">
-            I'm currently a Competitive Programmer. This is my codeforces account, of course, I'm doing problems on many other websites too.
-        </td>
-        <td style="width: 50%; vertical-align: top; border: none;">
-            <img 
-                src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true" 
-                alt="Codeforces Stats" 
-                style="width: 100%;"
-            />
-        </td>
-    </tr>
-</table>
+<div style="display: flex; justify-content: space-between; margin-bottom: 16px;">
+    <div style="flex: 1; margin-right: 16px;">
+        I'm currently a Competitive Programmer. This is my codeforces account, of course, I'm doing problems on many other websites too.
+    </div>
+    <div style="flex: 1;">
+        <img 
+            src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true" 
+            alt="Codeforces Stats" 
+            style="width: 100%;"
+        />
+    </div>
+</div>
 
 <img 
     src="https://github-readme-stats.vercel.app/api?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&custom_title=anHiep's&nbsp;GitHub&nbsp;stats" 
