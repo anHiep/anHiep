@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react&force_username=true" alt="Codeforces Stats" />
 </div>
 
+<div>
+  ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Maeda.anHiep)
+</div>
+
 
 
 
