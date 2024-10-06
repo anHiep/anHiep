@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
+  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=anHiep)
+  
+</div>
+
+<div align="right">
 
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react)
 
