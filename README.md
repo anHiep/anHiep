@@ -1,14 +1,16 @@
 # Hi there 👋
 
 ## Background
-- A competitive programming enthusiast<br>
-- You can check my Codeforces account [here](https://codeforces.com/profile/Maeda.anHiep)<br>
-- Of course, I'm doing problems on other websites.<br>
+- A competitive programming enthusiast
+- You can check my Codeforces account [here](https://codeforces.com/profile/Maeda.anHiep)
+- Of course, I'm doing problems on other websites.
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true)
 
 ## My achievement
 - HUS HSGS high school student 23-26 
+- Participant in DHBB 2024 (no prize, unfortunately)
+- #2 in the Nam Dinh Informatics Student Selection Test
 
 ## Top-lang in my GitHub
 
