@@ -4,7 +4,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true" alt="Codeforces Stats" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&custom_title=anHiep's GitHub stats" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&custom_title=anHiep's&nbsp;GitHub&nbsp;stats" alt="GitHub Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anHiep&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 
