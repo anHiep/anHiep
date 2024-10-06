@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy)
-  
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy" alt="Spotify Recently Played" />
+    </td>
+    <td>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react" alt="Codeforces Stats" />
+    </td>
+  </tr>
+</table>
 
-<div align="right">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react)
-
-</div>
 
