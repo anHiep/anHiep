@@ -41,3 +41,5 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anHiep&radius=16&theme=tokyo-night&custom_title=anHiep's&nbsp;Contribution)
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#15060](https://github.com/zed-industries/zed/issues/15060) in [zed-industries/zed](https://github.com/zed-industries/zed)
+<!--END_SECTION:activity-->
