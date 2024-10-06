@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwmq3fdleq23cagjcrozvfihjy&count=4" alt="Spotify Recently Played" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react&force_username" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=react&force_username=true" alt="Codeforces Stats" />
 </div>
 
 
