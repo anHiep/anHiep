@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-**I am a competitive programming enthusiast<br>You can check my Codeforce account here<br> Of course, I'm doing problems at many other websites.** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true) 
+• A competitive programming enthusiast<br>• You can check my Codeforce account here<br>• Of course, I'm doing problems at other websites. | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true) 
 :---|:---
 
-<img 
+<img
     src="https://github-readme-stats.vercel.app/api?username=anHiep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&custom_title=anHiep's&nbsp;GitHub&nbsp;stats" 
     alt="GitHub Stats"
 />
