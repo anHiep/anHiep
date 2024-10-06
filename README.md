@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-| **I'm currently a Competitive Programmer. This is my Codeforces account; of course, I'm doing problems on many other websites too.** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true) |
+| **I'm currently a Competitive Programmer. This is my Codeforces account<br> Of course, I'm doing problems on many other websites too.** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true) |
 |:---|:---|
 
 <img 
