@@ -2,10 +2,10 @@
 
 <table style="width: 100%; margin-bottom: 16px;">
     <tr>
-        <td style="width: 50%; vertical-align: top;">
+        <td style="width: 30%; vertical-align: top;">
             I'm currently a Competitive Programmer. This is my codeforces account, of course, I'm doing problems on many other websites too.
         </td>
-        <td style="width: 50%; vertical-align: top;">
+        <td style="width: 70%; vertical-align: top;">
             <img 
                 src="https://codeforces-readme-stats.vercel.app/api/card?username=Maeda.anHiep&theme=tokyonight&force_username=true" 
                 alt="Codeforces Stats" 
