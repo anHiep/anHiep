@@ -39,3 +39,5 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 - Promisely, this graph will look even better in the future!
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anHiep&radius=16&theme=tokyo-night&custom_title=anHiep's&nbsp;Contribution)
+
+<!--START_SECTION:activity-->
