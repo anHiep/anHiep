@@ -42,5 +42,5 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 
 ## My recent activities 💪
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15060](https://github.com/zed-industries/zed/issues/15060) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. ❗ Opened issue [#19008](https://github.com/zed-industries/zed/issues/19008) in [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--END_SECTION:activity-->
