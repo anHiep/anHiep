@@ -42,5 +42,5 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 
 ## My recent activities 💪
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19008](https://github.com/zed-industries/zed/issues/19008) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. ❗ Opened issue [#307](https://github.com/ChefKissInc/NootedRed/issues/307) in [ChefKissInc/NootedRed](https://github.com/ChefKissInc/NootedRed)
 <!--END_SECTION:activity-->
