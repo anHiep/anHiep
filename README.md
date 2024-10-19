@@ -12,7 +12,7 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 - HUS HSGS high school student 23-26 
 - Participant in DHBB 2024 (no prize, unfortunately)
 - #2 in the Nam Dinh Informatics Student Selection Test
-- #1718 in the Meta hacker cup 2024 (so choke 😭) [my certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/1090743952570736)
+- #1719 in the Meta hacker cup 2024 (so choke 😭) [certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/1090743952570736)
 
 ## Top-lang in my GitHub
 ![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png)
