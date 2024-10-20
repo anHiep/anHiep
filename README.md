@@ -43,5 +43,5 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 
 ## My recent activities 💪
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#307](https://github.com/ChefKissInc/NootedRed/issues/307#issuecomment-2408567814) in [ChefKissInc/NootedRed](https://github.com/ChefKissInc/NootedRed)
+1. ❗ Opened issue [#2](https://github.com/canislupaster/cpu-vscode/issues/2) in [canislupaster/cpu-vscode](https://github.com/canislupaster/cpu-vscode)
 <!--END_SECTION:activity-->
