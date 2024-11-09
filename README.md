@@ -43,5 +43,5 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 
 ## My recent activities 💪
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/canislupaster/cpu-vscode/issues/2) in [canislupaster/cpu-vscode](https://github.com/canislupaster/cpu-vscode)
+1. 🚀 Published release [Inspiron 5515 EFI 1.0](https://github.com/anHiep/Inspiron-5515-Amd-Hackintosh/releases/tag/latest) in [anHiep/Inspiron-5515-Amd-Hackintosh](https://github.com/anHiep/Inspiron-5515-Amd-Hackintosh)
 <!--END_SECTION:activity-->
