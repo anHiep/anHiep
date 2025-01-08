@@ -43,5 +43,5 @@ A passionate competitive programmer & backend developer from Ha Noi, Viet Nam. A
 
 ## My recent activities 💪
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Inspiron 5515 EFI 1.0](https://github.com/anHiep/Inspiron-5515-Amd-Hackintosh/releases/tag/latest) in [anHiep/Inspiron-5515-Amd-Hackintosh](https://github.com/anHiep/Inspiron-5515-Amd-Hackintosh)
+1. ❗ Opened issue [#158](https://github.com/lin-ycv/EverythingPowerToys/issues/158) in [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)
 <!--END_SECTION:activity-->
